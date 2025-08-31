@@ -10,7 +10,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 
-
+Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
+How it looks
+var myVar = "Hello, world!";
 
 
 
@@ -19,5 +24,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 I added Header
+
 
 
